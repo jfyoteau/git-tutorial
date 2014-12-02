@@ -7,6 +7,9 @@ public class Main {
 		
 		Development dev = new Development();
 		dev.print();
+		
+		Feature1 feature1 = new Feature1();
+		feature1.print();
 	}
 
 }
