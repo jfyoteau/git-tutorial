@@ -3,6 +3,6 @@ package jp.tcmobile.gittutorial;
 public final class Development {
 
 	public void print() {
-		System.out.println("dev 1");
+		System.out.println("dev 2");
 	}
 }
